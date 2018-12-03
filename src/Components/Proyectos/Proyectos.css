@@ -1,0 +1,73 @@
+.titulo-hab{
+	  color: #c07f8c;
+    font-family: 'Press Start 2P', cursiva;
+    font-weight:500;
+    font-size: 2em;
+    text-shadow: 1px 1px 1px #63636b;
+    text-align: center;
+    margin-top: 2em;
+  }
+  .cinco{
+      background-color: black;
+      border: 2px solid #c07f8c;
+      border-radius: 10px;
+      min-height: 446px;
+      max-width: 30rem;
+      margin-left: 30px;
+  }
+  .titulo-proyecto {
+    color: #c07f8c;
+    font-family: 'Press Start 2P', cursiva;
+    font-weight:400;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 0.8em;
+  }
+  
+  .image {
+    width: 70%;
+    height: 50em;
+    max-height: 170px;
+    margin: 0 auto 1em auto;
+    margin-top: 0.7em;
+    border: 2px solid #c07f8c;
+    border-radius: 5px;
+  }
+  .btn-p {
+    background-color: #9370AB;
+	  color: #c5bed7;
+    font-size: 1em;
+    padding: 12px 10px;
+    display: block;
+    border-radius: 5px;
+    margin-left: 25px;
+  }
+  .btn-p:hover{
+    background-color: #c07f8c;
+    color: #c5bed7;
+  }
+
+  .descrip-titulo{
+    color: #c07f8c;
+    font-size: 1em;
+    text-align: center;
+  }
+   
+  .descrip{
+text-align: center;
+ margin-top: 15px;
+    color: #c5bed7;
+    font-size: 1em;
+  }
+  .habp{
+    font-family: 'Press Start 2P', cursiva;
+    margin-top: 2.3em;
+    width: 100%;
+    height: 110vh;
+  
+  }
+
+
+ .habp .container .row {
+  justify-content: space-around;
+}
